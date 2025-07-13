@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title id="id">Free as in Freedom</dc:title>
+    <dc:creator id="id-1">Sam Williams</dc:creator>
+    <dc:creator id="id-2">2nd Edition Revisions By Richard Stallman</dc:creator>
+    <dc:identifier id="uuid_id">uuid:56765af0-4b65-471b-acdf-257bb964eb25</dc:identifier>
+    <dc:rights>Copyright © 2002, 2010 Sam Williams Copyright © 2010 Richard M. Stallman Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled “GNU Free Documentation License.”</dc:rights>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;In 2002, Sam Williams wrote Free as in Freedom, a biography of Richard M. Stallman. In its epilogue, Williams expressed hope that choosing to distribute his book under the GNU Free Documentation License would enable and encourage others to share corrections and their own perspectives through modifications to his work. Free as in Freedom (2.0) is Stallman's revision of the original biography. While preserving Williams's viewpoint, it includes factual corrections and extensive new commentary by Stallman, as well as new prefaces by both authors written for the occasion. It is a rare kind of biography, where the reader has the benefit of both the biographer's original words and the subject's response **&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Free Software Foundation</dc:publisher>
+    <dc:subject>Computers</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:contributor id="id-3">calibre (5.16.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2010-05-14T23:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier>calibre:3154c1db-34cf-42e6-9e6a-a94fa52c02f0</dc:identifier>
+    <dc:identifier>ISBN:9780983159216</dc:identifier>
+    <dc:identifier>AMAZON:0983159211</dc:identifier>
+    <dc:identifier>AMAZON_UK:0983159211</dc:identifier>
+    <dc:identifier>GOODREADS:11343000</dc:identifier>
+    <dc:identifier>GOOGLE:txxKYgEACAAJ</dc:identifier>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Free as in Freedom</meta>
+    <meta content="0.5.3" name="Sigil version"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sam Williams&quot;: &quot;&quot;, &quot;2nd Edition Revisions By Richard Stallman&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Williams, Sam &amp; Stallman, 2nd Edition Revisions By Richard</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-3" property="role" scheme="marc:relators">bkp</meta>
+    <meta property="calibre:timestamp" scheme="dcterms:W3CDTF">2021-05-26T23:27:46Z</meta>
+    <meta property="calibre:rating">10.0</meta>
+    <meta property="calibre:user_metadata">{
+  "#formats": {
+    "#extra#": null,
+    "#value#": "EPUB",
+    "category_sort": "value",
+    "colnum": 1,
+    "column": "value",
+    "datatype": "composite",
+    "display": {
+      "composite_sort": "text",
+      "composite_template": "{:'re(approximate_formats(), ',', ', ')'}",
+      "contains_html": false,
+      "description": "",
+      "make_category": false,
+      "use_decorations": 0
+    },
+    "is_category": false,
+    "is_csp": false,
+    "is_custom": true,
+    "is_editable": true,
+    "is_multiple": null,
+    "is_multiple2": {},
+    "kind": "field",
+    "label": "formats",
+    "link_column": "value",
+    "name": "Formats",
+    "rec_index": 22,
+    "search_terms": [
+      "#formats"
+    ],
+    "table": "custom_column_1"
+  },
+  "#pages": {
+    "#extra#": null,
+    "#value#": null,
+    "category_sort": "value",
+    "colnum": 2,
+    "column": "value",
+    "datatype": "float",
+    "display": {
+      "description": "Pages",
+      "number_format": null
+    },
+    "is_category": false,
+    "is_csp": false,
+    "is_custom": true,
+    "is_editable": true,
+    "is_multiple": null,
+    "is_multiple2": {},
+    "kind": "field",
+    "label": "pages",
+    "link_column": "value",
+    "name": "Pages",
+    "rec_index": 23,
+    "search_terms": [
+      "#pages"
+    ],
+    "table": "custom_column_2"
+  },
+  "#yesno": {
+    "#extra#": null,
+    "#value#": null,
+    "category_sort": "value",
+    "colnum": 3,
+    "column": "value",
+    "datatype": "bool",
+    "display": {
+      "description": "Needs Metadata?"
+    },
+    "is_category": false,
+    "is_csp": false,
+    "is_custom": true,
+    "is_editable": true,
+    "is_multiple": null,
+    "is_multiple2": {},
+    "kind": "field",
+    "label": "yesno",
+    "link_column": "value",
+    "name": "Need Mdata",
+    "rec_index": 24,
+    "search_terms": [
+      "#yesno"
+    ],
+    "table": "custom_column_3"
+  }
+}</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2021-05-27T00:23:06Z</meta>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item id="jacket" href="../jacket.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_000.html" id="html21" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_001.html" id="html20" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_002.html" id="html19" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_003.html" id="html18" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_004.html" id="html17" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_005.html" id="html16" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_006.html" id="html15" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_007.html" id="html14" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_008.html" id="html13" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_009.html" id="html12" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_010.html" id="html11" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_011.html" id="html10" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_012.html" id="html9" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_013.html" id="html8" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_014.html" id="html7" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_015.html" id="html6" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_016.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_017.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_018.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_019.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="Text/faif2_split_020.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item id="cover" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item href="Images/faif-2.00x.png" id="added1" media-type="image/png"/>
+    <item href="Images/faif-2.01x.png" id="added2" media-type="image/png"/>
+    <item id="nav" href="../nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="jacket"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  </package>

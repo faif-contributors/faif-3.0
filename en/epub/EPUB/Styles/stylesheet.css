@@ -1,0 +1,240 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.A {
+    font-size: 0.75em;
+    left: -0.4em;
+    position: relative;
+    top: -0.5ex
+    }
+.E {
+    left: -0.0417em;
+    position: relative;
+    top: 0.5ex
+    }
+.TEX {
+    left: -0.4em;
+    letter-spacing: -0.125em;
+    position: relative
+    }
+.author {
+    display: block;
+    text-align: center;
+    white-space: nowrap
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    color: inherit;
+    cursor: inherit;
+    line-height: 1.2;
+    text-decoration: inherit
+    }
+.calibre3 {
+    color: blue;
+    cursor: pointer;
+    font-weight: bold;
+    line-height: 200%;
+    text-decoration: underline
+    }
+.calibre4 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    color: inherit;
+    cursor: inherit;
+    text-decoration: inherit
+    }
+.caption {
+    display: block;
+    margin-left: 3em;
+    margin-right: 1em;
+    text-align: left;
+    text-indent: -2em
+    }
+.center {
+    display: block;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center
+    }
+.chapterToc {
+    font-weight: bold;
+    line-height: 200%;
+    margin-left: 0
+    }
+.cmbx {
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.cmbx-12x-x {
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.cmbx1 {
+    font-weight: bold
+    }
+.cmr {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.cmr1 {
+    font-size: 0.75em
+    }
+.cmti {
+    font-style: italic
+    }
+.cmti1 {
+    font-size: 0.75em;
+    font-style: italic
+    }
+.cmtt {
+    font-family: monospace
+    }
+.cmtt1 {
+    font-family: monospace;
+    font-size: 0.75em
+    }
+.date {
+    display: block;
+    text-align: center
+    }
+.figure {
+    border: 1px inset;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.figure1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    }
+.flushright {
+    display: block;
+    text-align: right
+    }
+.graphics {
+    height: 194.72751pt;
+    margin-left: 10%;
+    text-align: center;
+    width: 290.08376pt
+    }
+.graphics1 {
+    height: 229.85875pt;
+    margin-left: 10%;
+    text-align: center;
+    width: 243.91125pt
+    }
+.id {
+    font-weight: bold;
+    white-space: nowrap
+    }
+.indent {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 1.5em
+    }
+.itemize {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.itemize1 {
+    display: list-item
+    }
+.likechapterHead {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.likesectionHead {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.maketitle {
+    display: block;
+    margin-bottom: 2em;
+    text-align: center
+    }
+.newline {
+    display: block;
+    line-height: 1.2
+    }
+.noindent {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 0
+    }
+.quotation {
+    display: block;
+    margin-bottom: 0.25em;
+    margin-left: 1em;
+    margin-top: 0.25em
+    }
+.quote {
+    display: block;
+    margin-bottom: 0.25em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.25em;
+    text-align: justify
+    }
+.titleHead {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.titlemark {
+    line-height: 1.2
+    }
+.verse {
+    display: block;
+    margin-left: 2em;
+    white-space: nowrap
+    }
