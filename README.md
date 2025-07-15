@@ -10,8 +10,16 @@ We seek to spread the word of software freedom in as many languages as possible 
 Help is needed <3 contribute however you like and make it your own!
 
 ## Roadmap (Move to Projects and Issues once project expands)
-- [ ] Dockerize epubcheck (java) and daisy/ace (broken node)
 - [ ] Clean up the pdfToEpub en version so that translations can be started with a clean copy
+- [ ] Record English audiobook with my SM7B clone
+- [ ] Translate epub to Finnish
+- [ ] Record the Finnish audiobook 
 
 ## Diary (Will delete this once we have more active contributors)
-2025 Jul 13: not sure should i gitignore .pdf and .epub. At the same time I don't want "duplicate" data i.e. epub and unarchived epub code but at the same time I might not also want to use the Release page of GitHub and a maintenance-needing CICD pipeline on GHActions. Not sure how I should collaborate with jollheef or should I just leave their project alone.
+### 2025 Jul 15
+It seems like my source epub of 2.0 is just a transcode from the 2.0 pdf to epub inside Calibre. Might require a lot of cleaning up to do now that ace also knows about the accessibility issues on the book. Yeaah this definitely confirms the pdf theory
+> \<meta content="faif-2.0.tex" name="src"/>
+
+Oh boy do I have a lot of cleaning up (bikesheddink) ahead of me.
+### 2025 Jul 13
+not sure should i gitignore .pdf and .epub. At the same time I don't want "duplicate" data i.e. epub and unarchived epub code but at the same time I might not also want to use the Release page of GitHub and a maintenance-needing CICD pipeline on GHActions. Not sure how I should collaborate with jollheef or should I just leave their project alone.
