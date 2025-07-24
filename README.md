@@ -9,8 +9,13 @@ We seek to spread the word of software freedom in as many languages as possible 
 
 Help is needed <3 contribute however you like and make it your own!
 
+## Translations (decided to not use submodules)
+- Russian: https://github.com/olegchir/freeasinfreedom-ru (markdown), https://github.com/jollheef/free-as-in-freedom-v2-ru (tex)
+- Simplified Chinese: https://github.com/lifanxi/free-as-in-freedom-zh-cn 
 ## Roadmap (Move to Projects and Issues once project expands)
 - [ ] Clean up the pdfToEpub en version so that translations can be started with a clean copy
+- [ ] Conform EPUB a11y 1.1
+- [ ] Add FreeSans after scanning book what are used (normal, bold, italic, italic-bold)
 - [ ] Record English audiobook with my SM7B clone
 - [ ] Translate epub to Finnish
 - [ ] Record the Finnish audiobook 
